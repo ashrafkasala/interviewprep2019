@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afdc3d43-bdb8-4095-b0cd-f783c62dced7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/interviewprep2019.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CompanyQues/colrfulstreet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CompanyQues/mathHomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CompanyQues/stringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Healofy/1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Healofy/assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQues/DP/FIbonocciMemoization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQues/DP/FibonocciRec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQues/DP/FibonocciTabulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cabBooking/cab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompanyQues/SimpleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompanyQues/minCostPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompanyQues/numberOfPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompanyQues/primeFactors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewQues/Healofy/assignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewQues/Healofy/assignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewQues/Healofy/doJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interviewQues/Healofy/doJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompanyQues/stringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompanyQues/stringCompression.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,46 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InterviewQues/DP/FibonocciRec.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InterviewQues/DP/FIbonocciMemoization.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InterviewQues/DP/FibonocciTabulation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CompanyQues/colrfulstreet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cabBooking/cab.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +49,52 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CompanyQues/stringCompression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CompanyQues/minCostPath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CompanyQues/numberOfPaths.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CompanyQues/SimpleClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CompanyQues/primeFactors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-56">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -175,13 +170,11 @@
         <option value="$PROJECT_DIR$/src/CompanyQues/mathHomeWork.java" />
         <option value="$PROJECT_DIR$/src/Healofy/1.csv" />
         <option value="$PROJECT_DIR$/src/Healofy/assignment.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/CompanyQues/stringCompression.java" />
+        <option value="$PROJECT_DIR$/src/CompanyQues/minCostPath.java" />
+        <option value="$PROJECT_DIR$/src/CompanyQues/primeFactors.java" />
+        <option value="$PROJECT_DIR$/src/CompanyQues/numberOfPaths.java" />
+        <option value="$PROJECT_DIR$/src/CompanyQues/SimpleClass.java" />
       </list>
     </option>
   </component>
@@ -235,6 +228,9 @@
       </pane>
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -247,13 +243,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.assignment">
-    <configuration name="FIbonocciMemoization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQues.DP.FIbonocciMemoization" />
+  <component name="RunManager" selected="Application.SimpleClass">
+    <configuration name="SimpleClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompanyQues.SimpleClass" />
       <module name="interviewQues" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQues.DP.*" />
+          <option name="PATTERN" value="CompanyQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +257,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonocciTabulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQues.DP.FibonocciTabulation" />
+    <configuration name="minCostPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompanyQues.minCostPath" />
       <module name="interviewQues" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQues.DP.*" />
+          <option name="PATTERN" value="CompanyQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Healofy.assignment" />
+    <configuration name="numberOfPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompanyQues.numberOfPaths" />
       <module name="interviewQues" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Healofy.*" />
+          <option name="PATTERN" value="CompanyQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,12 +283,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cabBooking.cab" />
+    <configuration name="primeFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompanyQues.primeFactors" />
       <module name="interviewQues" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cabBooking.*" />
+          <option name="PATTERN" value="CompanyQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,8 +296,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mathHomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompanyQues.mathHomeWork" />
+    <configuration name="stringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompanyQues.stringCompression" />
       <module name="interviewQues" />
       <extension name="coverage">
         <pattern>
@@ -315,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.assignment" />
-        <item itemvalue="Application.mathHomeWork" />
-        <item itemvalue="Application.cab" />
-        <item itemvalue="Application.FibonocciTabulation" />
-        <item itemvalue="Application.FIbonocciMemoization" />
+        <item itemvalue="Application.SimpleClass" />
+        <item itemvalue="Application.numberOfPaths" />
+        <item itemvalue="Application.primeFactors" />
+        <item itemvalue="Application.minCostPath" />
+        <item itemvalue="Application.stringCompression" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +336,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24161074" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24161074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -349,7 +345,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31303117" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31303117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -532,10 +528,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompanyQues/minCostPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompanyQues/primeFactors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CompanyQues/stringCompression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompanyQues/numberOfPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompanyQues/SimpleClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
